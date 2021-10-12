@@ -1,0 +1,26 @@
+Dizi 1 => [22,27,16,2,18,6]
+
+1. Adımlar
+
+	Adım 1: [2, 27, 16, 22, 18, 6]
+	Adım 2: [2, 6, 16, 22, 18, 27]
+	Adım 3: [2, 6, 16, 18, 22, 27]
+
+2. Big-O
+	O(n^2)
+
+3. Time Complexity
+	Worst Case: O(n)
+	Best Case: O(n)
+	Average Case: O(n^2)
+
+4. 18 elemanı hangi case'e girer?
+	Average case
+
+
+Dizi 2 => [7,3,5,8,2,9,4,15,6]
+
+	Adım 1: [2,3,5,8,7,9,4,15,6]
+	Adım 2: [2,3,4,8,7,9,5,15,6]
+	Adım 3: [2,3,4,7,8,9,5,15,6]
+	Adım 4: [2,3,4,5,8,9,7,15,6]
